@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MediatRCrud.API/MediatRCrud.API.csproj" Id="44cef982-3d14-442f-8d28-2bd77c002051" />
+  <Project Path="MediatRCrud.Application/MediatRCrud.Application.csproj" />
+  <Project Path="MediatRCrud.Domain/MediatRCrud.Domain.csproj" />
+  <Project Path="MediatRCrud.Infrastructure/MediatRCrud.Infrastructure.csproj" />
+</Solution>
